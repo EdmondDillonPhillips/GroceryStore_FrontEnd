@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GroceryStore_FrontEnd/static/css/main.5f361e03.chunk.css",
+    "main.js": "/GroceryStore_FrontEnd/static/js/main.6c3429d2.chunk.js",
+    "main.js.map": "/GroceryStore_FrontEnd/static/js/main.6c3429d2.chunk.js.map",
+    "runtime-main.js": "/GroceryStore_FrontEnd/static/js/runtime-main.95dfb630.js",
+    "runtime-main.js.map": "/GroceryStore_FrontEnd/static/js/runtime-main.95dfb630.js.map",
+    "static/js/2.807a0ae0.chunk.js": "/GroceryStore_FrontEnd/static/js/2.807a0ae0.chunk.js",
+    "static/js/2.807a0ae0.chunk.js.map": "/GroceryStore_FrontEnd/static/js/2.807a0ae0.chunk.js.map",
+    "index.html": "/GroceryStore_FrontEnd/index.html",
+    "precache-manifest.c4e9cdd4409dd24320f9d7a2970ad314.js": "/GroceryStore_FrontEnd/precache-manifest.c4e9cdd4409dd24320f9d7a2970ad314.js",
+    "service-worker.js": "/GroceryStore_FrontEnd/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/GroceryStore_FrontEnd/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.807a0ae0.chunk.js.LICENSE.txt": "/GroceryStore_FrontEnd/static/js/2.807a0ae0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/GroceryStore_FrontEnd/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95dfb630.js",
+    "static/js/2.807a0ae0.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6c3429d2.chunk.js"
+  ]
+}
